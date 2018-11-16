@@ -6,20 +6,20 @@ google_analytics: "UA-109338886-1"
 
 # UI configs
 title: "Photography by Dani Cassol"
-subtitle: "See the world through my eyes!"
+subtitle: "Under Construction"
 author: "Daniela Cassol"
 header:
  title: "Photography"
  subtitle: "by Dani Cassol"
 footer:
  name: "Hey there, my name is Dani"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
+ bio: "...learning photography."
  github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/dcassol/photography\">fork me on github</a> ;)"
 web_design: "DC"
 social_urls:
   researchgate: "https://www.researchgate.net/profile/Daniela_Cassol"
   twitter: "https://www.twitter.com/danicassol"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
+  instagram: "https://www.instagram.com/d_cassol"
   linkedin: "https://in.linkedin.com/in/dcassol"
   github: "https://www.github.com/dcassol"
+  email: "danicassol@gmail.com"
